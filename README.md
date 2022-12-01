@@ -1,5 +1,4 @@
-# General Info: Micro-FrontEnd-React
-inspired by this blog : [blog.bitsrc.io/how-to-develop-microfrontends](https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd)
+# MicroFrontend cooked with React
 
 # General Info: Main topics for decision making if you choose Microfrontend Framework
 ![image](https://user-images.githubusercontent.com/4239376/205077952-93fd05e0-af59-469c-9e3a-cbde0503095f.png)
@@ -16,7 +15,9 @@ inspired by this blog : [blog.bitsrc.io/how-to-develop-microfrontends](https://b
 * Server Side - main question how to put everything together. Parsing templates 
 * Edge Side - Edge-side included, "ESI". Served on the edge
 
-# APPLICATION: Application install and run
+# Application: install and run
+inspired by this blog : [blog.bitsrc.io/how-to-develop-microfrontends](https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd)
+
 To properly run this application we have to run each of them
 1) cd cats, `npm start`
 2) cd dogs, `npm start` (in another console)
