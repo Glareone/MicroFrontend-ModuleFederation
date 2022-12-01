@@ -13,7 +13,7 @@
 ## MFE Composition
 * Client Side - Templates-like
 * Server Side - main question how to put everything together. Parsing templates 
-* Edge Side - Edge-side included, "ESI". Served on the edge
+* Edge Side - Edge-side includes, "ESI". Served on the edge: [Little Article](https://dev.to/okmttdhr/micro-frontends-patterns-10-edge-side-includes-3m75)
 
 # Application: install and run
 inspired by this blog : [blog.bitsrc.io/how-to-develop-microfrontends](https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd)
