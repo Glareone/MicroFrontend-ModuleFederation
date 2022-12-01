@@ -1,7 +1,22 @@
-# Micro-FrontEnd-React
+# General Info: Micro-FrontEnd-React
 inspired by this blog : [blog.bitsrc.io/how-to-develop-microfrontends](https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd)
 
-## Running
+# General Info: Main topics for decision making if you choose Microfrontend Framework
+![image](https://user-images.githubusercontent.com/4239376/205077952-93fd05e0-af59-469c-9e3a-cbde0503095f.png)
+[@ Article by Luca Mezzalira](https://lucamezzalira.medium.com/micro-frontends-decisions-framework-ebcd22256513)
+
+## General problems
+* Who does hold the domain?
+* Does team response for the whole page or just for a part of it?
+* Who is responsible for MFE Infrastructure
+* Horizontal or Vertical approach
+
+## MFE Composition
+* Client Side - Templates-like
+* Server Side - main question how to put everything together. Parsing templates 
+* Edge Side - Edge-side included, "ESI". Served on the edge
+
+# APPLICATION: Application install and run
 To properly run this application we have to run each of them
 1) cd cats, `npm start`
 2) cd dogs, `npm start` (in another console)
