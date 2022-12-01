@@ -25,6 +25,10 @@
 ![image](https://user-images.githubusercontent.com/4239376/205081932-eb569f3b-08db-4b63-ad64-f3d3d2589179.png)
 * Mixing TailorX and Single SPA
 ![image](https://user-images.githubusercontent.com/4239376/205082226-8ed607b2-4419-468f-8af4-573f81696235.png)
+* Open Components - works since ~2014
+![image](https://user-images.githubusercontent.com/4239376/205082491-e3b25c98-056a-456c-b9eb-8409e2ede4b3.png)
+* Piral - quite new.
+![image](https://user-images.githubusercontent.com/4239376/205082577-748bf0af-9514-42f0-86ff-3c7053790c9e.png)
 
 
 # Application: install and run
