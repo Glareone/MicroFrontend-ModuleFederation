@@ -15,6 +15,18 @@
 * Server Side - main question how to put everything together. Parsing templates 
 * Edge Side - Edge-side includes, "ESI". Served on the edge: [Little Article](https://dev.to/okmttdhr/micro-frontends-patterns-10-edge-side-includes-3m75)
 
+# Options:
+### Webpack Module Federation, Single SPA, TailorX, ILC (Isomorphic Layout Composer)
+* Good options by default
+![image](https://user-images.githubusercontent.com/4239376/205081577-1fdc4812-9bf5-42b8-9aed-bd8e9dfd1e25.png)
+* Good choise for nodejs and something custom:
+![image](https://user-images.githubusercontent.com/4239376/205081694-21d63db5-b8c8-4ae2-86ac-efb3774c263e.png)
+* Really good option because of having lots of features out of the box
+![image](https://user-images.githubusercontent.com/4239376/205081932-eb569f3b-08db-4b63-ad64-f3d3d2589179.png)
+* Mixing TailorX and Single SPA
+![image](https://user-images.githubusercontent.com/4239376/205082226-8ed607b2-4419-468f-8af4-573f81696235.png)
+
+
 # Application: install and run
 inspired by this blog : [blog.bitsrc.io/how-to-develop-microfrontends](https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd)
 
