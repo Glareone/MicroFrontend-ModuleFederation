@@ -16,7 +16,10 @@
 * Edge Side - Edge-side includes, "ESI". Served on the edge: [Little Article](https://dev.to/okmttdhr/micro-frontends-patterns-10-edge-side-includes-3m75)
 
 # Options:
-### Webpack Module Federation, Single SPA, TailorX, ILC (Isomorphic Layout Composer)
+### Webpack Module Federation, Single SPA, TailorX, ILC (Isomorphic Layout Composer). PRIVJS - Microfrontend for NextJS with Module Federation and SSR
+* Only one options is available for NextJS which supports module federation and SSR  
+![image](https://user-images.githubusercontent.com/4239376/205083541-0e712544-f1ba-4fe0-bd60-df1631d48c51.png)
+[PRIVJS. Microfrontend for NextJS. ~100$ per month](https://app.privjs.com/buy/packageDetail?pkg=@module-federation/nextjs-ssr)
 * Good options by default
 ![image](https://user-images.githubusercontent.com/4239376/205081577-1fdc4812-9bf5-42b8-9aed-bd8e9dfd1e25.png)
 * Good choise for nodejs and something custom:
